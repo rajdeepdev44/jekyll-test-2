@@ -1,4 +1,4 @@
-# Methanol Production Process Simulation
+# Process Simulation of Methanol Production from Syngas
 
 <img src="./assets/images/cover-image.jpg" alt="chemical plant" size="200"/>
 
