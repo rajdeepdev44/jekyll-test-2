@@ -1,6 +1,6 @@
 # Methanol Production Process Simulation
 
-![tottenham](http://blogs.ubc.ca/rajdeepdev/files/2020/12/s-l1600.jpg)
+<img src="./assets/images/cover-image.jpg" alt="chemical plant" size="200"/>
 
 You can use the [editor on GitHub](https://github.com/rajdeepdev44/jekyll-test-2/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
