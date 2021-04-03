@@ -1,6 +1,9 @@
 # Process Simulation of Methanol Production from Syngas
 
-<img src="./assets/images/cover-image.jpg" alt="chemical plant" width="400">
+<img src="./assets/images/cover-image.jpg" alt="chemical plant" width="400"><br>
+*image_caption*
+
+![image in html](./assets/images/cover-image.jpg)
 *image_caption*
 
 You can use the [editor on GitHub](https://github.com/rajdeepdev44/jekyll-test-2/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
