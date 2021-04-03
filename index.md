@@ -17,6 +17,10 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ## Process Description
 
 
+### Sample Chemical Reaction
+
+H<sub>2</sub>SO<sub>4</sub> + 2NaOH &rarr; 2H<sub>2</sub>O + Na<sup>+</sup> + SO<sub>4</sub><sup>2-</sup>
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
