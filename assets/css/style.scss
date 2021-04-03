@@ -3,6 +3,9 @@
 
 @import "{{ site.theme }}";
 
+header > h3{
+  font-color: white;
+}
 
 header{
   background-color: #002145;
