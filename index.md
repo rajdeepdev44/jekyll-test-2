@@ -1,4 +1,5 @@
 # Process Simulation of Methanol Production from Syngas
+<p id="sub-heading">by <a href="https://rajdeepdev10.github.io" target="_blank">Rajdeep Dev</a></p>
 
 <img src="./assets/images/cover-image.jpg" alt="chemical plant" width="400"><br>
 *image_caption*
