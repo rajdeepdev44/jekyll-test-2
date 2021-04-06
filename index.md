@@ -1,5 +1,5 @@
 # Process Simulation of Methanol Production from Syngas
-<p id="sub-heading">
+<p id="sub-heading" style="font-weight: bold">
   <b>Author:</b> <a href="https://rajdeepdev10.github.io" target="_blank">Rajdeep Dev</a><br>
   <b>UBC ID: </b>71666887
 </p>
