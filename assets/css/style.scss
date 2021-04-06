@@ -25,7 +25,10 @@ sub{
   vertical-align: sub;
 }
 
-body{
+body, h1, h2, h3{
   font-family: 'Open Sans', sans-serif;
-  background-color: white; 
+}
+
+body{
+  background-color: white;
 }
