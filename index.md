@@ -30,11 +30,20 @@ INSERT A DIAGRAM OF FULL PROCESS FLOWSHEET
 
 ### Feed Streams
 
-| Stream name  | Component(s)| Composition/ Flowrates|P/T/vap. frac.
+| Stream name  | Component(s)| Composition/ Flowrates|P/T/vap. frac.           |
 |:----------------------:|:-------------:|:-------------:|:-------------------:|
 | col 3 is      | right-aligned | $1600 | $1600                                |
 | col 2 is      | centered      |   $12 | $1600                                |
 | zebra stripes | are neat      |    $1 | $1600                                |
+
+
+### Blocks
+
+| Block name  | Specifications (P/T/vap. frac.)| Other notes |
+|:----------------------:|:-------------:|:-------------:|
+| col 3 is      | right-aligned | $1600 |                        
+| col 2 is      | centered      |   $12 |                                
+| zebra stripes | are neat      |    $1 |                            
 
 ## Analysis and Discussion
 
