@@ -30,11 +30,11 @@ INSERT A DIAGRAM OF FULL PROCESS FLOWSHEET
 
 ### Feed Streams
 
-| Stream name/number     | Component(s)           | Composition/Flowrates          |P/T/vap. frac.
-|:-------------:|:-------------:|:-------------:|:-------------:|
-| col 3 is      | right-aligned | $1600 | $1600 |
-| col 2 is      | centered      |   $12 | $1600 |
-| zebra stripes | are neat      |    $1 | $1600 |
+| Stream name/number| Component(s)| Composition/Flowrates|P/T/vap. frac.
+|:----------------------:|:-------------:|:-------------:|:-------------------:|
+| col 3 is      | right-aligned | $1600 | $1600                                |
+| col 2 is      | centered      |   $12 | $1600                                |
+| zebra stripes | are neat      |    $1 | $1600                                |
 
 ## Analysis and Discussion
 
