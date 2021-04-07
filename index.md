@@ -10,7 +10,7 @@
 
 This project will focus on the production process of methanol from syngas. Syngas is a fuel mixture produced from natural gas that consists primarily of hydrogen, carbon monoxide, and carbon dioxide with small amounts of water, nitrogen, and methanol. On an industrial scale, methanol is predominantly produced from the reaction of hydrogen with carbon monoxide and carbon dioxide. The resulting gas mixture is then distilled to create pure methanol [1]. This process is comprised of the following reactions is carried out at varying conditions [2]:
 
-<div align="center">
+<div align="center" style="font-weight: bold;">
   CO + 2H<sub>2</sub> → CH<sub>3</sub>OH (1) <br>
   CO<sub>2</sub> + 3H<sub>2</sub> → CO + H<sub>2</sub>O (2) <br>
   CO + H<sub>2</sub>O → CO<sub>2</sub> + H<sub>2</sub> (3)
