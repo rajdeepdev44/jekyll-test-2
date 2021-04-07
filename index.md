@@ -3,6 +3,8 @@
   <b>Author:</b> <a href="https://rajdeepdev10.github.io" target="_blank">Rajdeep Dev</a><br>
   <b>UBC ID: </b>71666887
 </p>
+**Author:** [Rajdeep Dev](https://rajdeepdev10.github.io)
+**UBC ID:** 71666887
 
 <img src="./assets/images/cover-image.jpg" alt="chemical plant" width="400"><br>
 *image_caption*
