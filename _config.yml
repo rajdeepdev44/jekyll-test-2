@@ -3,4 +3,4 @@ theme: jekyll-theme-dinky
 title: Methanol Production Process Simulation
 description: by Rajdeep Dev
 
-show_downloads: false
+show_downloads: true
