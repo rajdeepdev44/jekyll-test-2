@@ -1,3 +1,7 @@
+---
+usemathjax: true
+---
+
 # Process Simulation of Methanol Production from Syngas
 
 **Author:** [Rajdeep Dev](https://rajdeepdev10.github.io)
