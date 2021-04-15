@@ -1,4 +1,5 @@
 ---
+usemathjax: true
 ---
 
 @import "{{ site.theme }}";
@@ -17,11 +18,11 @@ a{
 }
 
 sup{
-  font-size:small; 
+  font-size:small;
   vertical-align:super;
 }
-sub{  
-  font-size:small; 
+sub{
+  font-size:small;
   vertical-align: sub;
 }
 
